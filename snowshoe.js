@@ -50,7 +50,7 @@ var Base64 = {
       }
     };
 
-	var snowShoeListener = {
+	var SnowShoe = {
 	      	init: function(stampScreenElmId, onStamp){
 				
 	        	var stampScreenElm = document.getElementById(stampScreenElmId);
